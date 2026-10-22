@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "icon": "👋",
+    "category": "Chào hỏi",
+    "text": "Hello",
+    "roman_en": "heh-LOH"
+  },
+  {
+    "id": 2,
+    "icon": "🙏",
+    "category": "Chào hỏi",
+    "text": "Thank you",
+    "roman_en": "THANGK yoo"
+  },
+  {
+    "id": 3,
+    "icon": "😊",
+    "category": "Chào hỏi",
+    "text": "Excuse me / Sorry",
+    "roman_en": "ik-SKYOOZ mee / SOR-ee"
+  },
+  {
+    "id": 4,
+    "icon": "🤝",
+    "category": "Chào hỏi",
+    "text": "Nice to meet you",
+    "roman_en": "nice tu meet yoo"
+  },
+  {
+    "id": 5,
+    "icon": "💬",
+    "category": "Chào hỏi",
+    "text": "Do you speak English?",
+    "roman_en": "doo yoo speek ING-glish"
+  },
+  {
+    "id": 6,
+    "icon": "🙋",
+    "category": "Chào hỏi",
+    "text": "How are you?",
+    "roman_en": "how ar yoo"
+  },
+  {
+    "id": 7,
+    "icon": "👋",
+    "category": "Chào hỏi",
+    "text": "Goodbye, see you again",
+    "roman_en": "good-BYE, see yoo a-GEN"
+  },
+  {
+    "id": 8,
+    "icon": "🙏",
+    "category": "Chào hỏi",
+    "text": "Please help me",
+    "roman_en": "pleez help mee"
+  },
+  {
+    "id": 9,
+    "icon": "💵",
+    "category": "Mua sắm",
+    "text": "How much is this?",
+    "roman_en": "how much iz this"
+  },
+  {
+    "id": 10,
+    "icon": "🏷️",
+    "category": "Mua sắm",
+    "text": "Is there a discount?",
+    "roman_en": "iz thair a DIS-count"
+  },
+  {
+    "id": 11,
+    "icon": "🛍️",
+    "category": "Mua sắm",
+    "text": "I'm just looking",
+    "roman_en": "aim just LOOK-ing"
+  },
+  {
+    "id": 12,
+    "icon": "🎨",
+    "category": "Mua sắm",
+    "text": "Do you have another color?",
+    "roman_en": "doo yoo hav a-NUH-ther KUL-er"
+  },
+  {
+    "id": 13,
+    "icon": "📏",
+    "category": "Mua sắm",
+    "text": "Do you have a larger size?",
+    "roman_en": "doo yoo hav a LAR-jer size"
+  },
+  {
+    "id": 14,
+    "icon": "💳",
+    "category": "Mua sắm",
+    "text": "Can I pay by card?",
+    "roman_en": "can eye pay by card"
+  },
+  {
+    "id": 15,
+    "icon": "🧾",
+    "category": "Mua sắm",
+    "text": "Can I have a receipt?",
+    "roman_en": "can eye hav a ree-SEET"
+  },
+  {
+    "id": 16,
+    "icon": "🎁",
+    "category": "Mua sắm",
+    "text": "I'd like to buy this",
+    "roman_en": "ayd like to buy this"
+  },
+  {
+    "id": 17,
+    "icon": "✈️",
+    "category": "Sân bay",
+    "text": "Where is the check-in counter?",
+    "roman_en": "where iz the check-in counter"
+  },
+  {
+    "id": 18,
+    "icon": "🛂",
+    "category": "Sân bay",
+    "text": "I need to go through immigration",
+    "roman_en": "eye need to go through immigration"
+  },
+  {
+    "id": 19,
+    "icon": "🧳",
+    "category": "Sân bay",
+    "text": "Where is my luggage?",
+    "roman_en": "where iz my LUG-ij"
+  },
+  {
+    "id": 20,
+    "icon": "🚪",
+    "category": "Sân bay",
+    "text": "What is the departure gate?",
+    "roman_en": "what iz the departure gate"
+  },
+  {
+    "id": 21,
+    "icon": "⏰",
+    "category": "Sân bay",
+    "text": "Is the flight delayed?",
+    "roman_en": "iz the flight di-LAYD"
+  },
+  {
+    "id": 22,
+    "icon": "🔄",
+    "category": "Sân bay",
+    "text": "I missed my flight",
+    "roman_en": "eye mist my flight"
+  },
+  {
+    "id": 23,
+    "icon": "🛃",
+    "category": "Sân bay",
+    "text": "I have items to declare",
+    "roman_en": "eye hav items to de-CLAIR"
+  },
+  {
+    "id": 24,
+    "icon": "🚻",
+    "category": "Sân bay",
+    "text": "Where is the restroom?",
+    "roman_en": "where iz the REST-room"
+  },
+  {
+    "id": 25,
+    "icon": "🍽️",
+    "category": "Ăn uống",
+    "text": "May I see the menu?",
+    "roman_en": "may eye see the MEN-yoo"
+  },
+  {
+    "id": 26,
+    "icon": "🌶️",
+    "category": "Ăn uống",
+    "text": "Please make it not spicy",
+    "roman_en": "pleez make it not SPY-see"
+  },
+  {
+    "id": 27,
+    "icon": "🥜",
+    "category": "Ăn uống",
+    "text": "I'm allergic to this food",
+    "roman_en": "aim uh-LER-jik to this food"
+  },
+  {
+    "id": 28,
+    "icon": "🥤",
+    "category": "Ăn uống",
+    "text": "Could I have some water?",
+    "roman_en": "could eye hav sum WAW-ter"
+  },
+  {
+    "id": 29,
+    "icon": "🥡",
+    "category": "Ăn uống",
+    "text": "I'd like this to go",
+    "roman_en": "ayd like this to go"
+  },
+  {
+    "id": 30,
+    "icon": "🍚",
+    "category": "Ăn uống",
+    "text": "Does this dish contain meat?",
+    "roman_en": "duz this dish contain meat"
+  },
+  {
+    "id": 31,
+    "icon": "🧂",
+    "category": "Ăn uống",
+    "text": "Could you use less salt?",
+    "roman_en": "could yoo use less salt"
+  },
+  {
+    "id": 32,
+    "icon": "💰",
+    "category": "Ăn uống",
+    "text": "Could I have the bill, please?",
+    "roman_en": "could eye hav the bill pleez"
+  },
+  {
+    "id": 33,
+    "icon": "🚕",
+    "category": "Di chuyển",
+    "text": "Please take me to this address",
+    "roman_en": "pleez take mee to this address"
+  },
+  {
+    "id": 34,
+    "icon": "📍",
+    "category": "Di chuyển",
+    "text": "I'd like to go to the city center",
+    "roman_en": "ayd like to go to the city center"
+  },
+  {
+    "id": 35,
+    "icon": "🚌",
+    "category": "Di chuyển",
+    "text": "Where is the bus stop?",
+    "roman_en": "where iz the bus stop"
+  },
+  {
+    "id": 36,
+    "icon": "🚆",
+    "category": "Di chuyển",
+    "text": "Where is the train station?",
+    "roman_en": "where iz the train station"
+  },
+  {
+    "id": 37,
+    "icon": "⏱️",
+    "category": "Di chuyển",
+    "text": "How long does it take to get there?",
+    "roman_en": "how long duz it take to get thair"
+  },
+  {
+    "id": 38,
+    "icon": "💵",
+    "category": "Di chuyển",
+    "text": "How much is the fare?",
+    "roman_en": "how much iz the fair"
+  },
+  {
+    "id": 39,
+    "icon": "🛑",
+    "category": "Di chuyển",
+    "text": "Please stop here",
+    "roman_en": "pleez stop heer"
+  },
+  {
+    "id": 40,
+    "icon": "🗺️",
+    "category": "Di chuyển",
+    "text": "I'm lost",
+    "roman_en": "aim lost"
+  },
+  {
+    "id": 41,
+    "icon": "🆘",
+    "category": "Khẩn cấp",
+    "text": "Help me!",
+    "roman_en": "help mee"
+  },
+  {
+    "id": 42,
+    "icon": "🚑",
+    "category": "Khẩn cấp",
+    "text": "I need a doctor",
+    "roman_en": "eye need a DOC-ter"
+  },
+  {
+    "id": 43,
+    "icon": "🚓",
+    "category": "Khẩn cấp",
+    "text": "Please call the police",
+    "roman_en": "pleez call the puh-LEES"
+  },
+  {
+    "id": 44,
+    "icon": "🏥",
+    "category": "Khẩn cấp",
+    "text": "Where is the nearest hospital?",
+    "roman_en": "where iz the NEER-est hospital"
+  },
+  {
+    "id": 45,
+    "icon": "💊",
+    "category": "Khẩn cấp",
+    "text": "I need medicine",
+    "roman_en": "eye need MED-i-sin"
+  },
+  {
+    "id": 46,
+    "icon": "📱",
+    "category": "Khẩn cấp",
+    "text": "I've lost my phone",
+    "roman_en": "aiv lost my phone"
+  },
+  {
+    "id": 47,
+    "icon": "🛂",
+    "category": "Khẩn cấp",
+    "text": "I've lost my passport",
+    "roman_en": "aiv lost my PAS-port"
+  },
+  {
+    "id": 48,
+    "icon": "🚨",
+    "category": "Khẩn cấp",
+    "text": "I need an interpreter",
+    "roman_en": "eye need an in-TER-pruh-ter"
+  },
+  {
+    "id": 49,
+    "icon": "🏨",
+    "category": "Khách sạn",
+    "text": "I have a reservation",
+    "roman_en": "eye hav a rez-er-VAY-shun"
+  },
+  {
+    "id": 50,
+    "icon": "🛏️",
+    "category": "Khách sạn",
+    "text": "I'd like to check in",
+    "roman_en": "ayd like to check in"
+  },
+  {
+    "id": 51,
+    "icon": "🧳",
+    "category": "Khách sạn",
+    "text": "I'd like to check out",
+    "roman_en": "ayd like to check out"
+  },
+  {
+    "id": 52,
+    "icon": "🛜",
+    "category": "Khách sạn",
+    "text": "What is the Wi-Fi password?",
+    "roman_en": "what iz the WHY-fy PASS-word"
+  },
+  {
+    "id": 53,
+    "icon": "🧼",
+    "category": "Khách sạn",
+    "text": "Could I have extra towels?",
+    "roman_en": "could eye hav extra TOW-uhlz"
+  },
+  {
+    "id": 54,
+    "icon": "❄️",
+    "category": "Khách sạn",
+    "text": "The air conditioning isn't working",
+    "roman_en": "the air kun-DISH-uh-ning iznt WUR-king"
+  },
+  {
+    "id": 55,
+    "icon": "🔑",
+    "category": "Khách sạn",
+    "text": "I've lost my room key card",
+    "roman_en": "aiv lost my room key card"
+  },
+  {
+    "id": 56,
+    "icon": "🛎️",
+    "category": "Khách sạn",
+    "text": "I'd like to speak to the front desk",
+    "roman_en": "ayd like to speak to the front desk"
+  }
+]

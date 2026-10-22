@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "icon": "👋",
+    "category": "Chào hỏi",
+    "text": "こんにちは",
+    "roman_ja": "konnichiwa"
+  },
+  {
+    "id": 2,
+    "icon": "🙏",
+    "category": "Chào hỏi",
+    "text": "ありがとうございます",
+    "roman_ja": "arigatou gozaimasu"
+  },
+  {
+    "id": 3,
+    "icon": "😊",
+    "category": "Chào hỏi",
+    "text": "すみません",
+    "roman_ja": "sumimasen"
+  },
+  {
+    "id": 4,
+    "icon": "🤝",
+    "category": "Chào hỏi",
+    "text": "はじめまして",
+    "roman_ja": "hajimemashite"
+  },
+  {
+    "id": 5,
+    "icon": "💬",
+    "category": "Chào hỏi",
+    "text": "英語を話せますか？",
+    "roman_ja": "eigo o hanasemasu ka"
+  },
+  {
+    "id": 6,
+    "icon": "🙋",
+    "category": "Chào hỏi",
+    "text": "お元気ですか？",
+    "roman_ja": "ogenki desu ka"
+  },
+  {
+    "id": 7,
+    "icon": "👋",
+    "category": "Chào hỏi",
+    "text": "さようなら、また会いましょう",
+    "roman_ja": "sayounara, mata aimashou"
+  },
+  {
+    "id": 8,
+    "icon": "🙏",
+    "category": "Chào hỏi",
+    "text": "手伝ってください",
+    "roman_ja": "tetsudatte kudasai"
+  },
+  {
+    "id": 9,
+    "icon": "💵",
+    "category": "Mua sắm",
+    "text": "これはいくらですか？",
+    "roman_ja": "kore wa ikura desu ka"
+  },
+  {
+    "id": 10,
+    "icon": "🏷️",
+    "category": "Mua sắm",
+    "text": "割引できますか？",
+    "roman_ja": "waribiki dekimasu ka"
+  },
+  {
+    "id": 11,
+    "icon": "🛍️",
+    "category": "Mua sắm",
+    "text": "見ているだけです",
+    "roman_ja": "miteiru dake desu"
+  },
+  {
+    "id": 12,
+    "icon": "🎨",
+    "category": "Mua sắm",
+    "text": "ほかの色はありますか？",
+    "roman_ja": "hoka no iro wa arimasu ka"
+  },
+  {
+    "id": 13,
+    "icon": "📏",
+    "category": "Mua sắm",
+    "text": "もっと大きいサイズはありますか？",
+    "roman_ja": "motto ookii saizu wa arimasu ka"
+  },
+  {
+    "id": 14,
+    "icon": "💳",
+    "category": "Mua sắm",
+    "text": "カードで払えますか？",
+    "roman_ja": "kaado de haraemasu ka"
+  },
+  {
+    "id": 15,
+    "icon": "🧾",
+    "category": "Mua sắm",
+    "text": "レシートをください",
+    "roman_ja": "reshiito o kudasai"
+  },
+  {
+    "id": 16,
+    "icon": "🎁",
+    "category": "Mua sắm",
+    "text": "これを買いたいです",
+    "roman_ja": "kore o kaitai desu"
+  },
+  {
+    "id": 17,
+    "icon": "✈️",
+    "category": "Sân bay",
+    "text": "チェックインカウンターはどこですか？",
+    "roman_ja": "chekkuin kauntaa wa doko desu ka"
+  },
+  {
+    "id": 18,
+    "icon": "🛂",
+    "category": "Sân bay",
+    "text": "入国審査を受けたいです",
+    "roman_ja": "nyuukoku shinsa o uketai desu"
+  },
+  {
+    "id": 19,
+    "icon": "🧳",
+    "category": "Sân bay",
+    "text": "私の荷物はどこですか？",
+    "roman_ja": "watashi no nimotsu wa doko desu ka"
+  },
+  {
+    "id": 20,
+    "icon": "🚪",
+    "category": "Sân bay",
+    "text": "搭乗口は何番ですか？",
+    "roman_ja": "toujouguchi wa nanban desu ka"
+  },
+  {
+    "id": 21,
+    "icon": "⏰",
+    "category": "Sân bay",
+    "text": "フライトは遅れていますか？",
+    "roman_ja": "furaito wa okureteimasu ka"
+  },
+  {
+    "id": 22,
+    "icon": "🔄",
+    "category": "Sân bay",
+    "text": "飛行機に乗り遅れました",
+    "roman_ja": "hikouki ni noriokuremashita"
+  },
+  {
+    "id": 23,
+    "icon": "🛃",
+    "category": "Sân bay",
+    "text": "申告する物があります",
+    "roman_ja": "shinkoku suru mono ga arimasu"
+  },
+  {
+    "id": 24,
+    "icon": "🚻",
+    "category": "Sân bay",
+    "text": "トイレはどこですか？",
+    "roman_ja": "toire wa doko desu ka"
+  },
+  {
+    "id": 25,
+    "icon": "🍽️",
+    "category": "Ăn uống",
+    "text": "メニューを見せてください",
+    "roman_ja": "menyuu o misete kudasai"
+  },
+  {
+    "id": 26,
+    "icon": "🌶️",
+    "category": "Ăn uống",
+    "text": "辛くしないでください",
+    "roman_ja": "karaku shinaide kudasai"
+  },
+  {
+    "id": 27,
+    "icon": "🥜",
+    "category": "Ăn uống",
+    "text": "この料理にアレルギーがあります",
+    "roman_ja": "kono ryouri ni arerugii ga arimasu"
+  },
+  {
+    "id": 28,
+    "icon": "🥤",
+    "category": "Ăn uống",
+    "text": "お水をください",
+    "roman_ja": "omizu o kudasai"
+  },
+  {
+    "id": 29,
+    "icon": "🥡",
+    "category": "Ăn uống",
+    "text": "持ち帰りでお願いします",
+    "roman_ja": "mochikaeri de onegaishimasu"
+  },
+  {
+    "id": 30,
+    "icon": "🍚",
+    "category": "Ăn uống",
+    "text": "この料理に肉は入っていますか？",
+    "roman_ja": "kono ryouri ni niku wa haitteimasu ka"
+  },
+  {
+    "id": 31,
+    "icon": "🧂",
+    "category": "Ăn uống",
+    "text": "塩を少なめにできますか？",
+    "roman_ja": "shio o sukuname ni dekimasu ka"
+  },
+  {
+    "id": 32,
+    "icon": "💰",
+    "category": "Ăn uống",
+    "text": "お会計をお願いします",
+    "roman_ja": "okaikei o onegaishimasu"
+  },
+  {
+    "id": 33,
+    "icon": "🚕",
+    "category": "Di chuyển",
+    "text": "この住所までお願いします",
+    "roman_ja": "kono juusho made onegaishimasu"
+  },
+  {
+    "id": 34,
+    "icon": "📍",
+    "category": "Di chuyển",
+    "text": "市の中心部に行きたいです",
+    "roman_ja": "shi no chuushinbu ni ikitai desu"
+  },
+  {
+    "id": 35,
+    "icon": "🚌",
+    "category": "Di chuyển",
+    "text": "バス停はどこですか？",
+    "roman_ja": "basutei wa doko desu ka"
+  },
+  {
+    "id": 36,
+    "icon": "🚆",
+    "category": "Di chuyển",
+    "text": "駅はどこですか？",
+    "roman_ja": "eki wa doko desu ka"
+  },
+  {
+    "id": 37,
+    "icon": "⏱️",
+    "category": "Di chuyển",
+    "text": "そこまでどのくらいかかりますか？",
+    "roman_ja": "soko made dono kurai kakarimasu ka"
+  },
+  {
+    "id": 38,
+    "icon": "💵",
+    "category": "Di chuyển",
+    "text": "運賃はいくらですか？",
+    "roman_ja": "unchin wa ikura desu ka"
+  },
+  {
+    "id": 39,
+    "icon": "🛑",
+    "category": "Di chuyển",
+    "text": "ここで止めてください",
+    "roman_ja": "koko de tomete kudasai"
+  },
+  {
+    "id": 40,
+    "icon": "🗺️",
+    "category": "Di chuyển",
+    "text": "道に迷いました",
+    "roman_ja": "michi ni mayoimashita"
+  },
+  {
+    "id": 41,
+    "icon": "🆘",
+    "category": "Khẩn cấp",
+    "text": "助けてください！",
+    "roman_ja": "tasukete kudasai"
+  },
+  {
+    "id": 42,
+    "icon": "🚑",
+    "category": "Khẩn cấp",
+    "text": "医者が必要です",
+    "roman_ja": "isha ga hitsuyou desu"
+  },
+  {
+    "id": 43,
+    "icon": "🚓",
+    "category": "Khẩn cấp",
+    "text": "警察を呼んでください",
+    "roman_ja": "keisatsu o yonde kudasai"
+  },
+  {
+    "id": 44,
+    "icon": "🏥",
+    "category": "Khẩn cấp",
+    "text": "一番近い病院はどこですか？",
+    "roman_ja": "ichiban chikai byouin wa doko desu ka"
+  },
+  {
+    "id": 45,
+    "icon": "💊",
+    "category": "Khẩn cấp",
+    "text": "薬が必要です",
+    "roman_ja": "kusuri ga hitsuyou desu"
+  },
+  {
+    "id": 46,
+    "icon": "📱",
+    "category": "Khẩn cấp",
+    "text": "携帯電話をなくしました",
+    "roman_ja": "keitai denwa o nakushimashita"
+  },
+  {
+    "id": 47,
+    "icon": "🛂",
+    "category": "Khẩn cấp",
+    "text": "パスポートをなくしました",
+    "roman_ja": "pasupooto o nakushimashita"
+  },
+  {
+    "id": 48,
+    "icon": "🚨",
+    "category": "Khẩn cấp",
+    "text": "通訳が必要です",
+    "roman_ja": "tsuuyaku ga hitsuyou desu"
+  },
+  {
+    "id": 49,
+    "icon": "🏨",
+    "category": "Khách sạn",
+    "text": "予約しています",
+    "roman_ja": "yoyaku shiteimasu"
+  },
+  {
+    "id": 50,
+    "icon": "🛏️",
+    "category": "Khách sạn",
+    "text": "チェックインをお願いします",
+    "roman_ja": "chekkuin o onegaishimasu"
+  },
+  {
+    "id": 51,
+    "icon": "🧳",
+    "category": "Khách sạn",
+    "text": "チェックアウトをお願いします",
+    "roman_ja": "chekkuauto o onegaishimasu"
+  },
+  {
+    "id": 52,
+    "icon": "🛜",
+    "category": "Khách sạn",
+    "text": "Wi-Fiのパスワードは何ですか？",
+    "roman_ja": "wai-fai no pasuwaado wa nan desu ka"
+  },
+  {
+    "id": 53,
+    "icon": "🧼",
+    "category": "Khách sạn",
+    "text": "タオルを追加でもらえますか？",
+    "roman_ja": "taoru o tsuika de moraemasu ka"
+  },
+  {
+    "id": 54,
+    "icon": "❄️",
+    "category": "Khách sạn",
+    "text": "部屋のエアコンが動きません",
+    "roman_ja": "heya no eakon ga ugokimasen"
+  },
+  {
+    "id": 55,
+    "icon": "🔑",
+    "category": "Khách sạn",
+    "text": "ルームキーをなくしました",
+    "roman_ja": "ruumu kii o nakushimashita"
+  },
+  {
+    "id": 56,
+    "icon": "🛎️",
+    "category": "Khách sạn",
+    "text": "フロントに連絡したいです",
+    "roman_ja": "furonto ni renraku shitai desu"
+  }
+]

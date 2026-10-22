@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "icon": "👋",
+    "category": "Chào hỏi",
+    "text": "你好",
+    "roman_zh": "nǐ hǎo"
+  },
+  {
+    "id": 2,
+    "icon": "🙏",
+    "category": "Chào hỏi",
+    "text": "谢谢",
+    "roman_zh": "xièxie"
+  },
+  {
+    "id": 3,
+    "icon": "😊",
+    "category": "Chào hỏi",
+    "text": "不好意思 / 对不起",
+    "roman_zh": "bù hǎo yìsi / duìbuqǐ"
+  },
+  {
+    "id": 4,
+    "icon": "🤝",
+    "category": "Chào hỏi",
+    "text": "很高兴认识你",
+    "roman_zh": "hěn gāoxìng rènshi nǐ"
+  },
+  {
+    "id": 5,
+    "icon": "💬",
+    "category": "Chào hỏi",
+    "text": "你会说英语吗？",
+    "roman_zh": "nǐ huì shuō yīngyǔ ma"
+  },
+  {
+    "id": 6,
+    "icon": "🙋",
+    "category": "Chào hỏi",
+    "text": "你好吗？",
+    "roman_zh": "nǐ hǎo ma"
+  },
+  {
+    "id": 7,
+    "icon": "👋",
+    "category": "Chào hỏi",
+    "text": "再见，下次见",
+    "roman_zh": "zàijiàn, xià cì jiàn"
+  },
+  {
+    "id": 8,
+    "icon": "🙏",
+    "category": "Chào hỏi",
+    "text": "请帮帮我",
+    "roman_zh": "qǐng bāngbang wǒ"
+  },
+  {
+    "id": 9,
+    "icon": "💵",
+    "category": "Mua sắm",
+    "text": "这个多少钱？",
+    "roman_zh": "zhège duōshao qián"
+  },
+  {
+    "id": 10,
+    "icon": "🏷️",
+    "category": "Mua sắm",
+    "text": "可以打折吗？",
+    "roman_zh": "kěyǐ dǎzhé ma"
+  },
+  {
+    "id": 11,
+    "icon": "🛍️",
+    "category": "Mua sắm",
+    "text": "我先看看",
+    "roman_zh": "wǒ xiān kànkan"
+  },
+  {
+    "id": 12,
+    "icon": "🎨",
+    "category": "Mua sắm",
+    "text": "有别的颜色吗？",
+    "roman_zh": "yǒu bié de yánsè ma"
+  },
+  {
+    "id": 13,
+    "icon": "📏",
+    "category": "Mua sắm",
+    "text": "有大一点的尺码吗？",
+    "roman_zh": "yǒu dà yìdiǎn de chǐmǎ ma"
+  },
+  {
+    "id": 14,
+    "icon": "💳",
+    "category": "Mua sắm",
+    "text": "可以刷卡吗？",
+    "roman_zh": "kěyǐ shuākǎ ma"
+  },
+  {
+    "id": 15,
+    "icon": "🧾",
+    "category": "Mua sắm",
+    "text": "请给我收据",
+    "roman_zh": "qǐng gěi wǒ shōujù"
+  },
+  {
+    "id": 16,
+    "icon": "🎁",
+    "category": "Mua sắm",
+    "text": "我想买这个",
+    "roman_zh": "wǒ xiǎng mǎi zhège"
+  },
+  {
+    "id": 17,
+    "icon": "✈️",
+    "category": "Sân bay",
+    "text": "值机柜台在哪里？",
+    "roman_zh": "zhíjī guìtái zài nǎlǐ"
+  },
+  {
+    "id": 18,
+    "icon": "🛂",
+    "category": "Sân bay",
+    "text": "我要办理入境手续",
+    "roman_zh": "wǒ yào bànlǐ rùjìng shǒuxù"
+  },
+  {
+    "id": 19,
+    "icon": "🧳",
+    "category": "Sân bay",
+    "text": "我的行李在哪里？",
+    "roman_zh": "wǒ de xíngli zài nǎlǐ"
+  },
+  {
+    "id": 20,
+    "icon": "🚪",
+    "category": "Sân bay",
+    "text": "登机口是几号？",
+    "roman_zh": "dēngjīkǒu shì jǐ hào"
+  },
+  {
+    "id": 21,
+    "icon": "⏰",
+    "category": "Sân bay",
+    "text": "航班延误了吗？",
+    "roman_zh": "hángbān yánwù le ma"
+  },
+  {
+    "id": 22,
+    "icon": "🔄",
+    "category": "Sân bay",
+    "text": "我错过了航班",
+    "roman_zh": "wǒ cuòguò le hángbān"
+  },
+  {
+    "id": 23,
+    "icon": "🛃",
+    "category": "Sân bay",
+    "text": "我有物品需要申报",
+    "roman_zh": "wǒ yǒu wùpǐn xūyào shēnbào"
+  },
+  {
+    "id": 24,
+    "icon": "🚻",
+    "category": "Sân bay",
+    "text": "洗手间在哪里？",
+    "roman_zh": "xǐshǒujiān zài nǎlǐ"
+  },
+  {
+    "id": 25,
+    "icon": "🍽️",
+    "category": "Ăn uống",
+    "text": "请给我看菜单",
+    "roman_zh": "qǐng gěi wǒ kàn càidān"
+  },
+  {
+    "id": 26,
+    "icon": "🌶️",
+    "category": "Ăn uống",
+    "text": "请不要放辣",
+    "roman_zh": "qǐng bú yào fàng là"
+  },
+  {
+    "id": 27,
+    "icon": "🥜",
+    "category": "Ăn uống",
+    "text": "我对这道菜过敏",
+    "roman_zh": "wǒ duì zhè dào cài guòmǐn"
+  },
+  {
+    "id": 28,
+    "icon": "🥤",
+    "category": "Ăn uống",
+    "text": "请给我一杯水",
+    "roman_zh": "qǐng gěi wǒ yì bēi shuǐ"
+  },
+  {
+    "id": 29,
+    "icon": "🥡",
+    "category": "Ăn uống",
+    "text": "请打包",
+    "roman_zh": "qǐng dǎbāo"
+  },
+  {
+    "id": 30,
+    "icon": "🍚",
+    "category": "Ăn uống",
+    "text": "这道菜有肉吗？",
+    "roman_zh": "zhè dào cài yǒu ròu ma"
+  },
+  {
+    "id": 31,
+    "icon": "🧂",
+    "category": "Ăn uống",
+    "text": "可以少放盐吗？",
+    "roman_zh": "kěyǐ shǎo fàng yán ma"
+  },
+  {
+    "id": 32,
+    "icon": "💰",
+    "category": "Ăn uống",
+    "text": "请结账",
+    "roman_zh": "qǐng jiézhàng"
+  },
+  {
+    "id": 33,
+    "icon": "🚕",
+    "category": "Di chuyển",
+    "text": "请带我去这个地址",
+    "roman_zh": "qǐng dài wǒ qù zhège dìzhǐ"
+  },
+  {
+    "id": 34,
+    "icon": "📍",
+    "category": "Di chuyển",
+    "text": "我想去市中心",
+    "roman_zh": "wǒ xiǎng qù shì zhōngxīn"
+  },
+  {
+    "id": 35,
+    "icon": "🚌",
+    "category": "Di chuyển",
+    "text": "公交车站在哪里？",
+    "roman_zh": "gōngjiāochē zhàn zài nǎlǐ"
+  },
+  {
+    "id": 36,
+    "icon": "🚆",
+    "category": "Di chuyển",
+    "text": "火车站在哪里？",
+    "roman_zh": "huǒchēzhàn zài nǎlǐ"
+  },
+  {
+    "id": 37,
+    "icon": "⏱️",
+    "category": "Di chuyển",
+    "text": "到那里要多久？",
+    "roman_zh": "dào nàlǐ yào duōjiǔ"
+  },
+  {
+    "id": 38,
+    "icon": "💵",
+    "category": "Di chuyển",
+    "text": "车费多少钱？",
+    "roman_zh": "chēfèi duōshao qián"
+  },
+  {
+    "id": 39,
+    "icon": "🛑",
+    "category": "Di chuyển",
+    "text": "请在这里停车",
+    "roman_zh": "qǐng zài zhèlǐ tíngchē"
+  },
+  {
+    "id": 40,
+    "icon": "🗺️",
+    "category": "Di chuyển",
+    "text": "我迷路了",
+    "roman_zh": "wǒ mílù le"
+  },
+  {
+    "id": 41,
+    "icon": "🆘",
+    "category": "Khẩn cấp",
+    "text": "请帮帮我！",
+    "roman_zh": "qǐng bāngbang wǒ"
+  },
+  {
+    "id": 42,
+    "icon": "🚑",
+    "category": "Khẩn cấp",
+    "text": "我需要医生",
+    "roman_zh": "wǒ xūyào yīshēng"
+  },
+  {
+    "id": 43,
+    "icon": "🚓",
+    "category": "Khẩn cấp",
+    "text": "请报警",
+    "roman_zh": "qǐng bàojǐng"
+  },
+  {
+    "id": 44,
+    "icon": "🏥",
+    "category": "Khẩn cấp",
+    "text": "最近的医院在哪里？",
+    "roman_zh": "zuìjìn de yīyuàn zài nǎlǐ"
+  },
+  {
+    "id": 45,
+    "icon": "💊",
+    "category": "Khẩn cấp",
+    "text": "我需要买药",
+    "roman_zh": "wǒ xūyào mǎi yào"
+  },
+  {
+    "id": 46,
+    "icon": "📱",
+    "category": "Khẩn cấp",
+    "text": "我的手机丢了",
+    "roman_zh": "wǒ de shǒujī diū le"
+  },
+  {
+    "id": 47,
+    "icon": "🛂",
+    "category": "Khẩn cấp",
+    "text": "我的护照丢了",
+    "roman_zh": "wǒ de hùzhào diū le"
+  },
+  {
+    "id": 48,
+    "icon": "🚨",
+    "category": "Khẩn cấp",
+    "text": "我需要翻译",
+    "roman_zh": "wǒ xūyào fānyì"
+  },
+  {
+    "id": 49,
+    "icon": "🏨",
+    "category": "Khách sạn",
+    "text": "我预订了房间",
+    "roman_zh": "wǒ yùdìng le fángjiān"
+  },
+  {
+    "id": 50,
+    "icon": "🛏️",
+    "category": "Khách sạn",
+    "text": "我想办理入住",
+    "roman_zh": "wǒ xiǎng bànlǐ rùzhù"
+  },
+  {
+    "id": 51,
+    "icon": "🧳",
+    "category": "Khách sạn",
+    "text": "我想办理退房",
+    "roman_zh": "wǒ xiǎng bànlǐ tuìfáng"
+  },
+  {
+    "id": 52,
+    "icon": "🛜",
+    "category": "Khách sạn",
+    "text": "Wi-Fi密码是什么？",
+    "roman_zh": "Wi-Fi mìmǎ shì shénme"
+  },
+  {
+    "id": 53,
+    "icon": "🧼",
+    "category": "Khách sạn",
+    "text": "可以多给我几条毛巾吗？",
+    "roman_zh": "kěyǐ duō gěi wǒ jǐ tiáo máojīn"
+  },
+  {
+    "id": 54,
+    "icon": "❄️",
+    "category": "Khách sạn",
+    "text": "房间的空调坏了",
+    "roman_zh": "fángjiān de kōngtiáo huài le"
+  },
+  {
+    "id": 55,
+    "icon": "🔑",
+    "category": "Khách sạn",
+    "text": "我的房卡丢了",
+    "roman_zh": "wǒ de fángkǎ diū le"
+  },
+  {
+    "id": 56,
+    "icon": "🛎️",
+    "category": "Khách sạn",
+    "text": "我想联系前台",
+    "roman_zh": "wǒ xiǎng liánxì qiántái"
+  }
+]

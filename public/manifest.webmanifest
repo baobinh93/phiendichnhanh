@@ -1,0 +1,6 @@
+{
+  "name":"Phiên Dịch Nhanh", "short_name":"Dịch Nhanh", "description":"Phiên dịch Việt - Thái và sổ tay cụm từ ngoại tuyến.",
+  "start_url":"./", "scope":"./", "display":"standalone", "orientation":"portrait",
+  "background_color":"#f5f8f6", "theme_color":"#087763",
+  "icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}

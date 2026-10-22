@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "icon": "👋",
+    "category": "Chào hỏi",
+    "text": "Xin chào",
+    "roman_vi": ""
+  },
+  {
+    "id": 2,
+    "icon": "🙏",
+    "category": "Chào hỏi",
+    "text": "Cảm ơn",
+    "roman_vi": ""
+  },
+  {
+    "id": 3,
+    "icon": "😊",
+    "category": "Chào hỏi",
+    "text": "Xin lỗi",
+    "roman_vi": ""
+  },
+  {
+    "id": 4,
+    "icon": "🤝",
+    "category": "Chào hỏi",
+    "text": "Rất vui được gặp bạn",
+    "roman_vi": ""
+  },
+  {
+    "id": 5,
+    "icon": "💬",
+    "category": "Chào hỏi",
+    "text": "Bạn có nói tiếng Anh không?",
+    "roman_vi": ""
+  },
+  {
+    "id": 6,
+    "icon": "🙋",
+    "category": "Chào hỏi",
+    "text": "Bạn khỏe không?",
+    "roman_vi": ""
+  },
+  {
+    "id": 7,
+    "icon": "👋",
+    "category": "Chào hỏi",
+    "text": "Tạm biệt, hẹn gặp lại",
+    "roman_vi": ""
+  },
+  {
+    "id": 8,
+    "icon": "🙏",
+    "category": "Chào hỏi",
+    "text": "Làm ơn giúp tôi",
+    "roman_vi": ""
+  },
+  {
+    "id": 9,
+    "icon": "💵",
+    "category": "Mua sắm",
+    "text": "Cái này bao nhiêu tiền?",
+    "roman_vi": ""
+  },
+  {
+    "id": 10,
+    "icon": "🏷️",
+    "category": "Mua sắm",
+    "text": "Có giảm giá không?",
+    "roman_vi": ""
+  },
+  {
+    "id": 11,
+    "icon": "🛍️",
+    "category": "Mua sắm",
+    "text": "Tôi chỉ xem thôi",
+    "roman_vi": ""
+  },
+  {
+    "id": 12,
+    "icon": "🎨",
+    "category": "Mua sắm",
+    "text": "Có màu khác không?",
+    "roman_vi": ""
+  },
+  {
+    "id": 13,
+    "icon": "📏",
+    "category": "Mua sắm",
+    "text": "Có cỡ lớn hơn không?",
+    "roman_vi": ""
+  },
+  {
+    "id": 14,
+    "icon": "💳",
+    "category": "Mua sắm",
+    "text": "Có thể thanh toán bằng thẻ không?",
+    "roman_vi": ""
+  },
+  {
+    "id": 15,
+    "icon": "🧾",
+    "category": "Mua sắm",
+    "text": "Cho tôi xin hóa đơn",
+    "roman_vi": ""
+  },
+  {
+    "id": 16,
+    "icon": "🎁",
+    "category": "Mua sắm",
+    "text": "Tôi muốn mua món này",
+    "roman_vi": ""
+  },
+  {
+    "id": 17,
+    "icon": "✈️",
+    "category": "Sân bay",
+    "text": "Quầy làm thủ tục ở đâu?",
+    "roman_vi": ""
+  },
+  {
+    "id": 18,
+    "icon": "🛂",
+    "category": "Sân bay",
+    "text": "Tôi muốn làm thủ tục nhập cảnh",
+    "roman_vi": ""
+  },
+  {
+    "id": 19,
+    "icon": "🧳",
+    "category": "Sân bay",
+    "text": "Hành lý của tôi ở đâu?",
+    "roman_vi": ""
+  },
+  {
+    "id": 20,
+    "icon": "🚪",
+    "category": "Sân bay",
+    "text": "Cửa khởi hành số mấy?",
+    "roman_vi": ""
+  },
+  {
+    "id": 21,
+    "icon": "⏰",
+    "category": "Sân bay",
+    "text": "Chuyến bay có bị hoãn không?",
+    "roman_vi": ""
+  },
+  {
+    "id": 22,
+    "icon": "🔄",
+    "category": "Sân bay",
+    "text": "Tôi bị lỡ chuyến bay",
+    "roman_vi": ""
+  },
+  {
+    "id": 23,
+    "icon": "🛃",
+    "category": "Sân bay",
+    "text": "Tôi có hành lý cần khai báo",
+    "roman_vi": ""
+  },
+  {
+    "id": 24,
+    "icon": "🚻",
+    "category": "Sân bay",
+    "text": "Nhà vệ sinh ở đâu?",
+    "roman_vi": ""
+  },
+  {
+    "id": 25,
+    "icon": "🍽️",
+    "category": "Ăn uống",
+    "text": "Cho tôi xem thực đơn",
+    "roman_vi": ""
+  },
+  {
+    "id": 26,
+    "icon": "🌶️",
+    "category": "Ăn uống",
+    "text": "Đừng cho cay nhé",
+    "roman_vi": ""
+  },
+  {
+    "id": 27,
+    "icon": "🥜",
+    "category": "Ăn uống",
+    "text": "Tôi bị dị ứng với món này",
+    "roman_vi": ""
+  },
+  {
+    "id": 28,
+    "icon": "🥤",
+    "category": "Ăn uống",
+    "text": "Cho tôi xin nước lọc",
+    "roman_vi": ""
+  },
+  {
+    "id": 29,
+    "icon": "🥡",
+    "category": "Ăn uống",
+    "text": "Cho tôi mang về",
+    "roman_vi": ""
+  },
+  {
+    "id": 30,
+    "icon": "🍚",
+    "category": "Ăn uống",
+    "text": "Món này có thịt không?",
+    "roman_vi": ""
+  },
+  {
+    "id": 31,
+    "icon": "🧂",
+    "category": "Ăn uống",
+    "text": "Ít muối hơn được không?",
+    "roman_vi": ""
+  },
+  {
+    "id": 32,
+    "icon": "💰",
+    "category": "Ăn uống",
+    "text": "Tính tiền giúp tôi",
+    "roman_vi": ""
+  },
+  {
+    "id": 33,
+    "icon": "🚕",
+    "category": "Di chuyển",
+    "text": "Làm ơn đưa tôi đến địa chỉ này",
+    "roman_vi": ""
+  },
+  {
+    "id": 34,
+    "icon": "📍",
+    "category": "Di chuyển",
+    "text": "Tôi muốn đến trung tâm thành phố",
+    "roman_vi": ""
+  },
+  {
+    "id": 35,
+    "icon": "🚌",
+    "category": "Di chuyển",
+    "text": "Trạm xe buýt ở đâu?",
+    "roman_vi": ""
+  },
+  {
+    "id": 36,
+    "icon": "🚆",
+    "category": "Di chuyển",
+    "text": "Ga tàu ở đâu?",
+    "roman_vi": ""
+  },
+  {
+    "id": 37,
+    "icon": "⏱️",
+    "category": "Di chuyển",
+    "text": "Mất bao lâu để đến đó?",
+    "roman_vi": ""
+  },
+  {
+    "id": 38,
+    "icon": "💵",
+    "category": "Di chuyển",
+    "text": "Giá cước là bao nhiêu?",
+    "roman_vi": ""
+  },
+  {
+    "id": 39,
+    "icon": "🛑",
+    "category": "Di chuyển",
+    "text": "Làm ơn dừng ở đây",
+    "roman_vi": ""
+  },
+  {
+    "id": 40,
+    "icon": "🗺️",
+    "category": "Di chuyển",
+    "text": "Tôi bị lạc đường",
+    "roman_vi": ""
+  },
+  {
+    "id": 41,
+    "icon": "🆘",
+    "category": "Khẩn cấp",
+    "text": "Hãy giúp tôi!",
+    "roman_vi": ""
+  },
+  {
+    "id": 42,
+    "icon": "🚑",
+    "category": "Khẩn cấp",
+    "text": "Tôi cần bác sĩ",
+    "roman_vi": ""
+  },
+  {
+    "id": 43,
+    "icon": "🚓",
+    "category": "Khẩn cấp",
+    "text": "Hãy gọi cảnh sát",
+    "roman_vi": ""
+  },
+  {
+    "id": 44,
+    "icon": "🏥",
+    "category": "Khẩn cấp",
+    "text": "Bệnh viện gần nhất ở đâu?",
+    "roman_vi": ""
+  },
+  {
+    "id": 45,
+    "icon": "💊",
+    "category": "Khẩn cấp",
+    "text": "Tôi cần mua thuốc",
+    "roman_vi": ""
+  },
+  {
+    "id": 46,
+    "icon": "📱",
+    "category": "Khẩn cấp",
+    "text": "Tôi bị mất điện thoại",
+    "roman_vi": ""
+  },
+  {
+    "id": 47,
+    "icon": "🛂",
+    "category": "Khẩn cấp",
+    "text": "Tôi bị mất hộ chiếu",
+    "roman_vi": ""
+  },
+  {
+    "id": 48,
+    "icon": "🚨",
+    "category": "Khẩn cấp",
+    "text": "Tôi cần phiên dịch",
+    "roman_vi": ""
+  },
+  {
+    "id": 49,
+    "icon": "🏨",
+    "category": "Khách sạn",
+    "text": "Tôi đã đặt phòng",
+    "roman_vi": ""
+  },
+  {
+    "id": 50,
+    "icon": "🛏️",
+    "category": "Khách sạn",
+    "text": "Tôi muốn nhận phòng",
+    "roman_vi": ""
+  },
+  {
+    "id": 51,
+    "icon": "🧳",
+    "category": "Khách sạn",
+    "text": "Tôi muốn trả phòng",
+    "roman_vi": ""
+  },
+  {
+    "id": 52,
+    "icon": "🛜",
+    "category": "Khách sạn",
+    "text": "Mật khẩu Wi-Fi là gì?",
+    "roman_vi": ""
+  },
+  {
+    "id": 53,
+    "icon": "🧼",
+    "category": "Khách sạn",
+    "text": "Tôi cần thêm khăn tắm",
+    "roman_vi": ""
+  },
+  {
+    "id": 54,
+    "icon": "❄️",
+    "category": "Khách sạn",
+    "text": "Phòng không mát, điều hòa không hoạt động",
+    "roman_vi": ""
+  },
+  {
+    "id": 55,
+    "icon": "🔑",
+    "category": "Khách sạn",
+    "text": "Tôi bị mất thẻ phòng",
+    "roman_vi": ""
+  },
+  {
+    "id": 56,
+    "icon": "🛎️",
+    "category": "Khách sạn",
+    "text": "Tôi cần gọi lễ tân",
+    "roman_vi": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "code": "vi",
+    "label": "Tiếng Việt",
+    "native": "VI",
+    "speech": "vi-VN"
+  },
+  {
+    "code": "th",
+    "label": "Tiếng Thái",
+    "native": "TH",
+    "speech": "th-TH"
+  },
+  {
+    "code": "en",
+    "label": "Tiếng Anh",
+    "native": "EN",
+    "speech": "en-US"
+  },
+  {
+    "code": "zh",
+    "label": "Tiếng Trung",
+    "native": "ZH",
+    "speech": "zh-CN"
+  },
+  {
+    "code": "ja",
+    "label": "Tiếng Nhật",
+    "native": "JA",
+    "speech": "ja-JP"
+  },
+  {
+    "code": "ko",
+    "label": "Tiếng Hàn",
+    "native": "KO",
+    "speech": "ko-KR"
+  }
+]

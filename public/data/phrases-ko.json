@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "icon": "👋",
+    "category": "Chào hỏi",
+    "text": "안녕하세요",
+    "roman_ko": "annyeonghaseyo"
+  },
+  {
+    "id": 2,
+    "icon": "🙏",
+    "category": "Chào hỏi",
+    "text": "감사합니다",
+    "roman_ko": "gamsahamnida"
+  },
+  {
+    "id": 3,
+    "icon": "😊",
+    "category": "Chào hỏi",
+    "text": "실례합니다 / 죄송합니다",
+    "roman_ko": "sillyehamnida / joesonghamnida"
+  },
+  {
+    "id": 4,
+    "icon": "🤝",
+    "category": "Chào hỏi",
+    "text": "만나서 반갑습니다",
+    "roman_ko": "mannaseo bangapseumnida"
+  },
+  {
+    "id": 5,
+    "icon": "💬",
+    "category": "Chào hỏi",
+    "text": "영어를 할 수 있어요?",
+    "roman_ko": "yeongeoreul hal su isseoyo"
+  },
+  {
+    "id": 6,
+    "icon": "🙋",
+    "category": "Chào hỏi",
+    "text": "잘 지내세요?",
+    "roman_ko": "jal jinaeseyo"
+  },
+  {
+    "id": 7,
+    "icon": "👋",
+    "category": "Chào hỏi",
+    "text": "안녕히 가세요, 또 만나요",
+    "roman_ko": "annyeonghi gaseyo, tto mannayo"
+  },
+  {
+    "id": 8,
+    "icon": "🙏",
+    "category": "Chào hỏi",
+    "text": "도와주세요",
+    "roman_ko": "dowajuseyo"
+  },
+  {
+    "id": 9,
+    "icon": "💵",
+    "category": "Mua sắm",
+    "text": "이거 얼마예요?",
+    "roman_ko": "igeo eolmayeyo"
+  },
+  {
+    "id": 10,
+    "icon": "🏷️",
+    "category": "Mua sắm",
+    "text": "할인되나요?",
+    "roman_ko": "harin doenayo"
+  },
+  {
+    "id": 11,
+    "icon": "🛍️",
+    "category": "Mua sắm",
+    "text": "그냥 구경 중이에요",
+    "roman_ko": "geunyang gugyeong jungieyo"
+  },
+  {
+    "id": 12,
+    "icon": "🎨",
+    "category": "Mua sắm",
+    "text": "다른 색도 있어요?",
+    "roman_ko": "dareun saekdo isseoyo"
+  },
+  {
+    "id": 13,
+    "icon": "📏",
+    "category": "Mua sắm",
+    "text": "더 큰 사이즈 있어요?",
+    "roman_ko": "deo keun saijeu isseoyo"
+  },
+  {
+    "id": 14,
+    "icon": "💳",
+    "category": "Mua sắm",
+    "text": "카드로 결제할 수 있어요?",
+    "roman_ko": "kadeuro gyeoljehal su isseoyo"
+  },
+  {
+    "id": 15,
+    "icon": "🧾",
+    "category": "Mua sắm",
+    "text": "영수증 주세요",
+    "roman_ko": "yeongsujeung juseyo"
+  },
+  {
+    "id": 16,
+    "icon": "🎁",
+    "category": "Mua sắm",
+    "text": "이걸 사고 싶어요",
+    "roman_ko": "igeol sago sipeoyo"
+  },
+  {
+    "id": 17,
+    "icon": "✈️",
+    "category": "Sân bay",
+    "text": "체크인 카운터가 어디예요?",
+    "roman_ko": "chekeuin kaunteoga eodiyeyo"
+  },
+  {
+    "id": 18,
+    "icon": "🛂",
+    "category": "Sân bay",
+    "text": "입국 심사를 받으려고 합니다",
+    "roman_ko": "ipguk simsareul bad-euryeogo hamnida"
+  },
+  {
+    "id": 19,
+    "icon": "🧳",
+    "category": "Sân bay",
+    "text": "제 짐은 어디에 있어요?",
+    "roman_ko": "je jimeun eodie isseoyo"
+  },
+  {
+    "id": 20,
+    "icon": "🚪",
+    "category": "Sân bay",
+    "text": "탑승구가 몇 번이에요?",
+    "roman_ko": "tapseunggu-ga myeot beonieyo"
+  },
+  {
+    "id": 21,
+    "icon": "⏰",
+    "category": "Sân bay",
+    "text": "항공편이 지연됐나요?",
+    "roman_ko": "hanggongpyeoni jiyeondwaennayo"
+  },
+  {
+    "id": 22,
+    "icon": "🔄",
+    "category": "Sân bay",
+    "text": "비행기를 놓쳤어요",
+    "roman_ko": "bihaenggireul nochyeosseoyo"
+  },
+  {
+    "id": 23,
+    "icon": "🛃",
+    "category": "Sân bay",
+    "text": "신고할 물품이 있어요",
+    "roman_ko": "singohal mulpumi isseoyo"
+  },
+  {
+    "id": 24,
+    "icon": "🚻",
+    "category": "Sân bay",
+    "text": "화장실이 어디예요?",
+    "roman_ko": "hwajangsiri eodiyeyo"
+  },
+  {
+    "id": 25,
+    "icon": "🍽️",
+    "category": "Ăn uống",
+    "text": "메뉴를 보여 주세요",
+    "roman_ko": "menyureul boyeo juseyo"
+  },
+  {
+    "id": 26,
+    "icon": "🌶️",
+    "category": "Ăn uống",
+    "text": "맵지 않게 해 주세요",
+    "roman_ko": "maepji anke hae juseyo"
+  },
+  {
+    "id": 27,
+    "icon": "🥜",
+    "category": "Ăn uống",
+    "text": "이 음식에 알레르기가 있어요",
+    "roman_ko": "i eumsige allereugiga isseoyo"
+  },
+  {
+    "id": 28,
+    "icon": "🥤",
+    "category": "Ăn uống",
+    "text": "물 좀 주세요",
+    "roman_ko": "mul jom juseyo"
+  },
+  {
+    "id": 29,
+    "icon": "🥡",
+    "category": "Ăn uống",
+    "text": "포장해 주세요",
+    "roman_ko": "pojanghae juseyo"
+  },
+  {
+    "id": 30,
+    "icon": "🍚",
+    "category": "Ăn uống",
+    "text": "이 요리에 고기가 들어가요?",
+    "roman_ko": "i yor리에 gogiga deureogayo"
+  },
+  {
+    "id": 31,
+    "icon": "🧂",
+    "category": "Ăn uống",
+    "text": "소금을 적게 넣어 주실 수 있어요?",
+    "roman_ko": "sogeumeul jeokge neoeo jusil su isseoyo"
+  },
+  {
+    "id": 32,
+    "icon": "💰",
+    "category": "Ăn uống",
+    "text": "계산해 주세요",
+    "roman_ko": "gyesan hae juseyo"
+  },
+  {
+    "id": 33,
+    "icon": "🚕",
+    "category": "Di chuyển",
+    "text": "이 주소로 가 주세요",
+    "roman_ko": "i jusoro ga juseyo"
+  },
+  {
+    "id": 34,
+    "icon": "📍",
+    "category": "Di chuyển",
+    "text": "시내 중심가로 가고 싶어요",
+    "roman_ko": "sinae jungsimgaro gago sipeoyo"
+  },
+  {
+    "id": 35,
+    "icon": "🚌",
+    "category": "Di chuyển",
+    "text": "버스 정류장이 어디예요?",
+    "roman_ko": "beoseu jeongnyujangi eodiyeyo"
+  },
+  {
+    "id": 36,
+    "icon": "🚆",
+    "category": "Di chuyển",
+    "text": "기차역이 어디예요?",
+    "roman_ko": "gichayeogi eodiyeyo"
+  },
+  {
+    "id": 37,
+    "icon": "⏱️",
+    "category": "Di chuyển",
+    "text": "거기까지 얼마나 걸려요?",
+    "roman_ko": "geogikkaji eolmana geollyeoyo"
+  },
+  {
+    "id": 38,
+    "icon": "💵",
+    "category": "Di chuyển",
+    "text": "요금이 얼마예요?",
+    "roman_ko": "yogeumi eolmayeyo"
+  },
+  {
+    "id": 39,
+    "icon": "🛑",
+    "category": "Di chuyển",
+    "text": "여기서 세워 주세요",
+    "roman_ko": "yeogiseo sewo juseyo"
+  },
+  {
+    "id": 40,
+    "icon": "🗺️",
+    "category": "Di chuyển",
+    "text": "길을 잃었어요",
+    "roman_ko": "gireul ireosseoyo"
+  },
+  {
+    "id": 41,
+    "icon": "🆘",
+    "category": "Khẩn cấp",
+    "text": "도와주세요!",
+    "roman_ko": "dowajuseyo"
+  },
+  {
+    "id": 42,
+    "icon": "🚑",
+    "category": "Khẩn cấp",
+    "text": "의사가 필요해요",
+    "roman_ko": "uisaga piryohaeyo"
+  },
+  {
+    "id": 43,
+    "icon": "🚓",
+    "category": "Khẩn cấp",
+    "text": "경찰을 불러 주세요",
+    "roman_ko": "gyeongchareul bulleo juseyo"
+  },
+  {
+    "id": 44,
+    "icon": "🏥",
+    "category": "Khẩn cấp",
+    "text": "가장 가까운 병원이 어디예요?",
+    "roman_ko": "gajang gakkaun byeongwoni eodiyeyo"
+  },
+  {
+    "id": 45,
+    "icon": "💊",
+    "category": "Khẩn cấp",
+    "text": "약이 필요해요",
+    "roman_ko": "yagi piryohaeyo"
+  },
+  {
+    "id": 46,
+    "icon": "📱",
+    "category": "Khẩn cấp",
+    "text": "휴대전화를 잃어버렸어요",
+    "roman_ko": "hyudaejeonhwareul ireobeoryeosseoyo"
+  },
+  {
+    "id": 47,
+    "icon": "🛂",
+    "category": "Khẩn cấp",
+    "text": "여권을 잃어버렸어요",
+    "roman_ko": "yeogwoneul ireobeoryeosseoyo"
+  },
+  {
+    "id": 48,
+    "icon": "🚨",
+    "category": "Khẩn cấp",
+    "text": "통역이 필요해요",
+    "roman_ko": "tongyeogi piryohaeyo"
+  },
+  {
+    "id": 49,
+    "icon": "🏨",
+    "category": "Khách sạn",
+    "text": "예약했어요",
+    "roman_ko": "yeyakhaesseoyo"
+  },
+  {
+    "id": 50,
+    "icon": "🛏️",
+    "category": "Khách sạn",
+    "text": "체크인하고 싶어요",
+    "roman_ko": "chekeuin hago sipeoyo"
+  },
+  {
+    "id": 51,
+    "icon": "🧳",
+    "category": "Khách sạn",
+    "text": "체크아웃하려고 합니다",
+    "roman_ko": "chekeuaut haryeogo hamnida"
+  },
+  {
+    "id": 52,
+    "icon": "🛜",
+    "category": "Khách sạn",
+    "text": "와이파이 비밀번호가 뭐예요?",
+    "roman_ko": "waipai bimilbeonhoga mwoyeyo"
+  },
+  {
+    "id": 53,
+    "icon": "🧼",
+    "category": "Khách sạn",
+    "text": "수건을 더 받을 수 있을까요?",
+    "roman_ko": "sugeoneul deo badeul su isseulkkayo"
+  },
+  {
+    "id": 54,
+    "icon": "❄️",
+    "category": "Khách sạn",
+    "text": "방 에어컨이 작동하지 않아요",
+    "roman_ko": "bang eeokeoni jakdonghaji anayo"
+  },
+  {
+    "id": 55,
+    "icon": "🔑",
+    "category": "Khách sạn",
+    "text": "객실 키카드를 잃어버렸어요",
+    "roman_ko": "gaeksil kikadeureul ireobeoryeosseoyo"
+  },
+  {
+    "id": 56,
+    "icon": "🛎️",
+    "category": "Khách sạn",
+    "text": "프런트 데스크에 연락하고 싶어요",
+    "roman_ko": "peureonteu deseukeue yeollakhago sipeoyo"
+  }
+]

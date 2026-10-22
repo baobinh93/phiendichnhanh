@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "icon": "👋",
+    "category": "Chào hỏi",
+    "text": "สวัสดี",
+    "roman_th": "sawat dii"
+  },
+  {
+    "id": 2,
+    "icon": "🙏",
+    "category": "Chào hỏi",
+    "text": "ขอบคุณ",
+    "roman_th": "khop khun"
+  },
+  {
+    "id": 3,
+    "icon": "😊",
+    "category": "Chào hỏi",
+    "text": "ขอโทษ",
+    "roman_th": "kho thot"
+  },
+  {
+    "id": 4,
+    "icon": "🤝",
+    "category": "Chào hỏi",
+    "text": "ยินดีที่ได้รู้จัก",
+    "roman_th": "yin dii thii dai ruu jak"
+  },
+  {
+    "id": 5,
+    "icon": "💬",
+    "category": "Chào hỏi",
+    "text": "คุณพูดภาษาอังกฤษได้ไหม",
+    "roman_th": "khun phuut phaasaa angkrit dai mai"
+  },
+  {
+    "id": 6,
+    "icon": "🙋",
+    "category": "Chào hỏi",
+    "text": "คุณสบายดีไหม",
+    "roman_th": "khun sabaai dii mai"
+  },
+  {
+    "id": 7,
+    "icon": "👋",
+    "category": "Chào hỏi",
+    "text": "ลาก่อน แล้วพบกันใหม่",
+    "roman_th": "laa kon laeo phop kan mai"
+  },
+  {
+    "id": 8,
+    "icon": "🙏",
+    "category": "Chào hỏi",
+    "text": "กรุณาช่วยฉันหน่อย",
+    "roman_th": "karunaa chuai chan noi"
+  },
+  {
+    "id": 9,
+    "icon": "💵",
+    "category": "Mua sắm",
+    "text": "อันนี้ราคาเท่าไหร่",
+    "roman_th": "an nii raakhaa thao rai"
+  },
+  {
+    "id": 10,
+    "icon": "🏷️",
+    "category": "Mua sắm",
+    "text": "ลดราคาได้ไหม",
+    "roman_th": "lot raakhaa dai mai"
+  },
+  {
+    "id": 11,
+    "icon": "🛍️",
+    "category": "Mua sắm",
+    "text": "ขอดูก่อน",
+    "roman_th": "kho duu kon"
+  },
+  {
+    "id": 12,
+    "icon": "🎨",
+    "category": "Mua sắm",
+    "text": "มีสีอื่นไหม",
+    "roman_th": "mii sii uen mai"
+  },
+  {
+    "id": 13,
+    "icon": "📏",
+    "category": "Mua sắm",
+    "text": "มีขนาดใหญ่กว่านี้ไหม",
+    "roman_th": "mii khanaat yai kwaa nii mai"
+  },
+  {
+    "id": 14,
+    "icon": "💳",
+    "category": "Mua sắm",
+    "text": "จ่ายบัตรได้ไหม",
+    "roman_th": "jaai bat dai mai"
+  },
+  {
+    "id": 15,
+    "icon": "🧾",
+    "category": "Mua sắm",
+    "text": "ขอใบเสร็จด้วย",
+    "roman_th": "kho bai set duai"
+  },
+  {
+    "id": 16,
+    "icon": "🎁",
+    "category": "Mua sắm",
+    "text": "ฉันต้องการซื้อชิ้นนี้",
+    "roman_th": "chan tongkan sue chin nii"
+  },
+  {
+    "id": 17,
+    "icon": "✈️",
+    "category": "Sân bay",
+    "text": "เคาน์เตอร์เช็กอินอยู่ที่ไหน",
+    "roman_th": "khao-toe chek-in yuu thii nai"
+  },
+  {
+    "id": 18,
+    "icon": "🛂",
+    "category": "Sân bay",
+    "text": "ฉันต้องการผ่านด่านตรวจคนเข้าเมือง",
+    "roman_th": "chan tongkan phaan daan"
+  },
+  {
+    "id": 19,
+    "icon": "🧳",
+    "category": "Sân bay",
+    "text": "กระเป๋าของฉันอยู่ที่ไหน",
+    "roman_th": "krapao khong chan yuu thii nai"
+  },
+  {
+    "id": 20,
+    "icon": "🚪",
+    "category": "Sân bay",
+    "text": "ประตูขึ้นเครื่องหมายเลขอะไร",
+    "roman_th": "pratu khuen khrueang mai lek arai"
+  },
+  {
+    "id": 21,
+    "icon": "⏰",
+    "category": "Sân bay",
+    "text": "เที่ยวบินล่าช้าหรือไม่",
+    "roman_th": "thiao bin laa chaa rue mai"
+  },
+  {
+    "id": 22,
+    "icon": "🔄",
+    "category": "Sân bay",
+    "text": "ฉันตกเครื่อง",
+    "roman_th": "chan tok khrueang"
+  },
+  {
+    "id": 23,
+    "icon": "🛃",
+    "category": "Sân bay",
+    "text": "ฉันมีสิ่งของต้องสำแดง",
+    "roman_th": "chan mii sing khong tong samdaeng"
+  },
+  {
+    "id": 24,
+    "icon": "🚻",
+    "category": "Sân bay",
+    "text": "ห้องน้ำอยู่ที่ไหน",
+    "roman_th": "hong nam yuu thii nai"
+  },
+  {
+    "id": 25,
+    "icon": "🍽️",
+    "category": "Ăn uống",
+    "text": "ขอดูเมนูหน่อย",
+    "roman_th": "kho duu menu noi"
+  },
+  {
+    "id": 26,
+    "icon": "🌶️",
+    "category": "Ăn uống",
+    "text": "ไม่เผ็ดนะ",
+    "roman_th": "mai phet na"
+  },
+  {
+    "id": 27,
+    "icon": "🥜",
+    "category": "Ăn uống",
+    "text": "ฉันแพ้อาหารจานนี้",
+    "roman_th": "chan phae ahaan jaan nii"
+  },
+  {
+    "id": 28,
+    "icon": "🥤",
+    "category": "Ăn uống",
+    "text": "ขอน้ำเปล่าหน่อย",
+    "roman_th": "kho nam plao noi"
+  },
+  {
+    "id": 29,
+    "icon": "🥡",
+    "category": "Ăn uống",
+    "text": "ขอใส่กลับบ้าน",
+    "roman_th": "kho sai klap baan"
+  },
+  {
+    "id": 30,
+    "icon": "🍚",
+    "category": "Ăn uống",
+    "text": "จานนี้มีเนื้อสัตว์ไหม",
+    "roman_th": "jaan nii mii nuea sat mai"
+  },
+  {
+    "id": 31,
+    "icon": "🧂",
+    "category": "Ăn uống",
+    "text": "ใส่เกลือน้อยลงได้ไหม",
+    "roman_th": "sai kluea noi long dai mai"
+  },
+  {
+    "id": 32,
+    "icon": "💰",
+    "category": "Ăn uống",
+    "text": "คิดเงินด้วย",
+    "roman_th": "khit ngoen duai"
+  },
+  {
+    "id": 33,
+    "icon": "🚕",
+    "category": "Di chuyển",
+    "text": "ช่วยพาฉันไปที่อยู่นี้",
+    "roman_th": "chuai phaa chan pai thii yuu nii"
+  },
+  {
+    "id": 34,
+    "icon": "📍",
+    "category": "Di chuyển",
+    "text": "ฉันต้องการไปใจกลางเมือง",
+    "roman_th": "chan tongkan pai jai klang mueang"
+  },
+  {
+    "id": 35,
+    "icon": "🚌",
+    "category": "Di chuyển",
+    "text": "ป้ายรถเมล์อยู่ที่ไหน",
+    "roman_th": "paai rot mee yuu thii nai"
+  },
+  {
+    "id": 36,
+    "icon": "🚆",
+    "category": "Di chuyển",
+    "text": "สถานีรถไฟอยู่ที่ไหน",
+    "roman_th": "sathanii rot fai yuu thii nai"
+  },
+  {
+    "id": 37,
+    "icon": "⏱️",
+    "category": "Di chuyển",
+    "text": "ใช้เวลาไปที่นั่นนานเท่าไหร่",
+    "roman_th": "chai welaa pai thii nan naan thao rai"
+  },
+  {
+    "id": 38,
+    "icon": "💵",
+    "category": "Di chuyển",
+    "text": "ค่าโดยสารเท่าไหร่",
+    "roman_th": "kha doisan thao rai"
+  },
+  {
+    "id": 39,
+    "icon": "🛑",
+    "category": "Di chuyển",
+    "text": "กรุณาจอดตรงนี้",
+    "roman_th": "karunaa jot trong nii"
+  },
+  {
+    "id": 40,
+    "icon": "🗺️",
+    "category": "Di chuyển",
+    "text": "ฉันหลงทาง",
+    "roman_th": "chan long thaang"
+  },
+  {
+    "id": 41,
+    "icon": "🆘",
+    "category": "Khẩn cấp",
+    "text": "ช่วยฉันด้วย!",
+    "roman_th": "chuai chan duai"
+  },
+  {
+    "id": 42,
+    "icon": "🚑",
+    "category": "Khẩn cấp",
+    "text": "ฉันต้องการพบแพทย์",
+    "roman_th": "chan tongkan phop phaet"
+  },
+  {
+    "id": 43,
+    "icon": "🚓",
+    "category": "Khẩn cấp",
+    "text": "ช่วยเรียกตำรวจ",
+    "roman_th": "chuai riak tamruat"
+  },
+  {
+    "id": 44,
+    "icon": "🏥",
+    "category": "Khẩn cấp",
+    "text": "โรงพยาบาลที่ใกล้ที่สุดอยู่ที่ไหน",
+    "roman_th": "rong phayabaan thii klai thii sut yuu thii nai"
+  },
+  {
+    "id": 45,
+    "icon": "💊",
+    "category": "Khẩn cấp",
+    "text": "ฉันต้องการซื้อยา",
+    "roman_th": "chan tongkan sue yaa"
+  },
+  {
+    "id": 46,
+    "icon": "📱",
+    "category": "Khẩn cấp",
+    "text": "ฉันทำโทรศัพท์หาย",
+    "roman_th": "chan tham thorasap haai"
+  },
+  {
+    "id": 47,
+    "icon": "🛂",
+    "category": "Khẩn cấp",
+    "text": "ฉันทำหนังสือเดินทางหาย",
+    "roman_th": "chan tham nangsue doen thaang haai"
+  },
+  {
+    "id": 48,
+    "icon": "🚨",
+    "category": "Khẩn cấp",
+    "text": "ฉันต้องการล่าม",
+    "roman_th": "chan tongkan laam"
+  },
+  {
+    "id": 49,
+    "icon": "🏨",
+    "category": "Khách sạn",
+    "text": "ฉันจองห้องพักไว้แล้ว",
+    "roman_th": "chan jong hong phak wai laeo"
+  },
+  {
+    "id": 50,
+    "icon": "🛏️",
+    "category": "Khách sạn",
+    "text": "ฉันต้องการเช็กอิน",
+    "roman_th": "chan tongkan chek-in"
+  },
+  {
+    "id": 51,
+    "icon": "🧳",
+    "category": "Khách sạn",
+    "text": "ฉันต้องการเช็กเอาต์",
+    "roman_th": "chan tongkan chek-ao"
+  },
+  {
+    "id": 52,
+    "icon": "🛜",
+    "category": "Khách sạn",
+    "text": "รหัส Wi-Fi คืออะไร",
+    "roman_th": "rahat wai-fai khue arai"
+  },
+  {
+    "id": 53,
+    "icon": "🧼",
+    "category": "Khách sạn",
+    "text": "ขอผ้าเช็ดตัวเพิ่มได้ไหม",
+    "roman_th": "kho pha chet tua phoem dai mai"
+  },
+  {
+    "id": 54,
+    "icon": "❄️",
+    "category": "Khách sạn",
+    "text": "แอร์ในห้องไม่ทำงาน",
+    "roman_th": "ae nai hong mai tham ngaan"
+  },
+  {
+    "id": 55,
+    "icon": "🔑",
+    "category": "Khách sạn",
+    "text": "ฉันทำคีย์การ์ดหาย",
+    "roman_th": "chan tham khii kaat haai"
+  },
+  {
+    "id": 56,
+    "icon": "🛎️",
+    "category": "Khách sạn",
+    "text": "ขอคุยกับพนักงานต้อนรับ",
+    "roman_th": "kho khui kap phanakngaan ton rap"
+  }
+]
