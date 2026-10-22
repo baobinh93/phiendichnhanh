@@ -62,8 +62,10 @@ type PhrasePackItem = {
 
 async function loadData() {
   const [lr, ...prs] = await Promise.all([
-    fetch("/data/languages.json"),
-    ...codes.map((c) => fetch(`/data/phrases-${c}.json`)),
+    fetch(`${import.meta.env.BASE_URL}data/languages.json`),
+    ...codes.map((c) =>
+      fetch(`${import.meta.env.BASE_URL}data/phrases-${c}.json`),
+    ),
   ]);
 
   if (!lr.ok || prs.some((r) => !r.ok)) {
